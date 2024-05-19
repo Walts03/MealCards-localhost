@@ -30,8 +30,6 @@ This is the beta version of [MealCards-mercury](https://github.com/Walts03/MealC
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-
 - API: [TheMealDB](https://themealdb.com/)
-- [MealCards-mercury](https://github.com/Walts03/MealCards-mercury)
-- [json-server](https://www.npmjs.com/package/json-server)
+- Mercury Version [MealCards-mercury](https://github.com/Walts03/MealCards-mercury)
+- json-server: [json-server](https://www.npmjs.com/package/json-server)
