@@ -1,6 +1,6 @@
 # MealCards - localhost
 
-This is self-learned VueJS project version for COS30043 - Interface Design and Development (HD)
+This is self-learned VueJS project version for [COS30043 - Interface Design and Development](https://github.com/Walts03/cos30043) (HD)
 
 ## Description
 
